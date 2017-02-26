@@ -1,1 +1,0 @@
-# Barbell-lifts-prediction-model
